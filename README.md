@@ -50,11 +50,12 @@ The Power BI dashboard presents retail sales insights through interactive visual
 
 ### Dashboard Preview — Page 1
 
-![Dashboard Page 1](./dashboard/Dashboard_page1.png)
+![Dashboard Page 1](Dashboard_page1.png)
 
 ### Dashboard Preview — Page 2
 
-![Dashboard Page 2](./dashboard/Dashboard_page2.png)
+![Dashboard Page 2](Dashboard_page2.png)
+
 ## 7. Project Folder Structure
 
 ```text
