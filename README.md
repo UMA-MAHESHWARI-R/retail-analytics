@@ -48,6 +48,14 @@ The Power BI dashboard presents retail sales insights through interactive visual
 - Order Status
 - Quantity Sold by Product
 
+- ### Dashboard Preview — Page 1
+
+![Dashboard Page 1](./Dashboard_Page1.png)
+
+### Dashboard Preview — Page 2
+
+![Dashboard Page 2](./Dashboard_Page2.png)
+
 ## 7. Project Folder Structure
 
 ```text
@@ -90,4 +98,3 @@ RETAIL_ANALYTICS/
 Aspiring Data Analyst
 
 Skills: SQL | Python | Pandas | Power BI | Excel
-
