@@ -37,7 +37,20 @@ The following SQL queries are included in this project:
 
 Python and Pandas are used to connect to the SQL Server database, retrieve data, and support data analysis.
 
-## 6. Power BI Dashboard
+## 6. Key Findings
+
+Based on the retail sales analysis, the following insights were identified:
+
+- **Total Sales:** ₹440,600
+- **Total Orders:** 15
+- **Average Order Value:** ₹29,373.33
+- **Top-Performing Category:** Electronics, with sales of ₹356,000
+- **Best-Selling Product by Sales Value:** Laptop, with sales of ₹165,000
+- **Monthly Sales:** February recorded ₹150,500 in sales, the highest among January–April.
+
+These findings help identify high-performing products, understand sales trends, and support data-driven business decisions.
+
+## 7. Power BI Dashboard
 
 The Power BI dashboard presents retail sales insights through interactive visualizations, including:
 
@@ -56,7 +69,7 @@ The Power BI dashboard presents retail sales insights through interactive visual
 
 ![Dashboard Page 2](Dashboard_page2.png)
 
-## 7. Project Folder Structure
+## 8. Project Folder Structure
 
 ```text
 RETAIL_ANALYTICS/
@@ -83,7 +96,7 @@ RETAIL_ANALYTICS/
 └── README.md
 ```
 
-## 8. Key Learning Outcomes
+## 9. Key Learning Outcomes
 
 - Writing SQL queries using JOIN, GROUP BY, aggregate functions, and ORDER BY.
 - Connecting Python to SQL Server.
@@ -91,7 +104,7 @@ RETAIL_ANALYTICS/
 - Developing interactive Power BI dashboards.
 - Presenting business insights through data visualization.
 
-## 9. Author
+## 10. Author
 
 **Uma Maheshwari**
 
